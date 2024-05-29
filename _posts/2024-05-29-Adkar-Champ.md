@@ -6,18 +6,15 @@ updated: 2024-05-29 18:26
 > Find the source code here: [Adkar Champ](https://github.com/zameel7/adkar-streak)
 
 <div align="center">
-  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="../assets/Screenshots/light-logo.png" width="100px">
- <img alt="Logo of Adkar Champ" width="100px" src="../assets/Screenshots/dark-logo.png">
-</picture>
-  <h1>Adkar Champ</h1>
+    ![Logo of Adkar Champ](../assets/Screenshots/dark-logo.png){: width="100px"}
+    <h1>Adkar Champ</h1>
 </div>
 
 <br>
 
 <div align="center">
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zameel7)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zameel7)
 
 ![GitHub](https://img.shields.io/badge/Version-1.3.3-blue)
 ![GitHub](https://img.shields.io/badge/Platform-Android-lightgrey)
@@ -29,9 +26,7 @@ updated: 2024-05-29 18:26
 </div>
 
 <div align="center">
-  <a href='https://play.google.com/store/apps/details?id=com.zameel7.adkarstreak&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
-    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/>
-  </a>
+    [Get it on Google Play](https://play.google.com/store/apps/details?id=com.zameel7.adkarstreak&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){: width="200"}
 </div>
 
 <div align="center">Adkar Champ! This app is designed to help you remember Allah and keep track of your daily adkar. We also have streaks to keep you motivated. If you like our app, please consider supporting me by buying me a coffee. <br><br><b>Jazakallah Khair!</b></div>
@@ -40,23 +35,23 @@ updated: 2024-05-29 18:26
 ## Screenshots
 
 <div align="center">
-  <img src="../assets/Screenshots/1.png" alt="Screenshot 1" width="245">
-  <img src="../assets/Screenshots/2.png" alt="Screenshot 2" width="245">
-  <img src="../assets/Screenshots/3.png" alt="Screenshot 3" width="245">
+    ![Screenshot 1](../assets/Screenshots/1.png){: width="245"}
+    ![Screenshot 2](../assets/Screenshots/2.png){: width="245"}
+    ![Screenshot 3](../assets/Screenshots/3.png){: width="245"}
 </div>
 
 ## Development
 
 1. **Install dependencies**
 
-    ```bash
-    npm install
-    ```
+        ```bash
+        npm install
+        ```
 
 2. **Start the app**
-    ```bash
-    npx expo start
-    ```
+        ```bash
+        npx expo start
+        ```
 
 > For iOS development, please switch to the `ios` branch as LinearGradient is not supported in iOS.
 
