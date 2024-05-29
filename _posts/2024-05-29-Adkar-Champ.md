@@ -29,7 +29,9 @@ updated: 2024-05-29 18:26
     [Get it on Google Play](https://play.google.com/store/apps/details?id=com.zameel7.adkarstreak&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){: width="200"}
 </div>
 
-<div align="center">Adkar Champ! This app is designed to help you remember Allah and keep track of your daily adkar. We also have streaks to keep you motivated. If you like our app, please consider supporting me by buying me a coffee. <br><br><b>Jazakallah Khair!</b></div>
+<div align="center">
+Adkar Champ! This app is designed to help you remember Allah and keep track of your daily adkar. We also have streaks to keep you motivated. If you like our app, please consider supporting me by buying me a coffee. <br><br><b>Jazakallah Khair!</b>
+</div>
 <br>
 
 ## Screenshots
@@ -44,23 +46,24 @@ updated: 2024-05-29 18:26
 
 1. **Install dependencies**
 
-        ```bash
-        npm install
-        ```
+    ```bash
+    npm install
+    ```
 
 2. **Start the app**
-        ```bash
-        npx expo start
-        ```
+
+    ```bash
+    npx expo start
+    ```
 
 > For iOS development, please switch to the `ios` branch as LinearGradient is not supported in iOS.
 
 In the output, you'll find options to open the app in a
 
--   [Development build](https://docs.expo.dev/develop/development-builds/introduction/)
--   [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
--   [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
--   [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 <br>
 
